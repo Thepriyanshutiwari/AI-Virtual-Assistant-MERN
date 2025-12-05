@@ -1,7 +1,6 @@
 # AI Virtual Assistant (MERN)
 
 A full-stack AI-powered virtual assistant built using the MERN stack with real-time communication, voice/text interaction, task automation, and intelligent responses.  
-This repository currently contains **documentation and project structure**, and the full codebase will be uploaded after refactoring and API key removal.
 
 ---
 
@@ -39,4 +38,24 @@ This repository currently contains **documentation and project structure**, and 
 ---
 
 ## 📁 Project Structure
+AI-Virtual-Assistant-MERN/
+│
+├── client/               # React Frontend
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.js
+│   │   ├── index.js
+│   ├── package.json
+│
+├── server/               # Node + Express Backend
+│   ├── routes/
+│   ├── controllers/
+│   ├── app.js
+│   ├── server.js
+│   ├── package.json
+│
+├── .gitignore
+├── README.md
+
 
